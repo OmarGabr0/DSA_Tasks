@@ -1,0 +1,15 @@
+# depslib dependency file v1.0
+1765042283 source:e:\telecom_iti\data_structures\day1\lab1\main.cpp
+	<iostream>
+	"LinkedList.h"
+
+1765042161 e:\telecom_iti\data_structures\day1\lab1\include\linkedlist.h
+	<iostream>
+	"Node.h"
+
+1765039018 e:\telecom_iti\data_structures\day1\lab1\include\node.h
+
+1765039185 source:e:\telecom_iti\data_structures\day1\lab1\src\linkedlist.cpp
+
+1765039185 source:e:\telecom_iti\data_structures\day1\lab1\src\node.cpp
+
