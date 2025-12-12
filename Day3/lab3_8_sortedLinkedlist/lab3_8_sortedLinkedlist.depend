@@ -1,0 +1,15 @@
+# depslib dependency file v1.0
+1765402275 source:e:\telecom_iti\data_structures\day3\lab3_8_sortedlinkedlist\main.cpp
+	<iostream>
+	"LinkedList.h"
+
+1765401976 e:\telecom_iti\data_structures\day3\lab3_8_sortedlinkedlist\include\linkedlist.h
+	<iostream>
+	"Node.h"
+
+1765388312 e:\telecom_iti\data_structures\day3\lab3_8_sortedlinkedlist\include\node.h
+
+1765400632 source:e:\telecom_iti\data_structures\day3\lab3_8_sortedlinkedlist\src\linkedlist.cpp
+
+1765400565 source:e:\telecom_iti\data_structures\day3\lab3_8_sortedlinkedlist\src\node.cpp
+
