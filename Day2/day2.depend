@@ -1,0 +1,31 @@
+# depslib dependency file v1.0
+1765146383 source:e:\telecom_iti\data_structures\day2\day2\main.cpp
+	<iostream>
+	"Queue_linked.h"
+	"Stack.h"
+	"queue_circ.h"
+
+1765120160 source:e:\telecom_iti\data_structures\day2\day2\src\linkedlist.cpp
+
+1765122271 source:e:\telecom_iti\data_structures\day2\day2\src\node.cpp
+
+1765122273 source:e:\telecom_iti\data_structures\day2\day2\src\stack.cpp
+
+1765130856 source:e:\telecom_iti\data_structures\day2\day2\src\queue_linked.cpp
+
+1765146016 e:\telecom_iti\data_structures\day2\day2\include\queue_linked.h
+	"LinkedList.h"
+
+1765130781 e:\telecom_iti\data_structures\day2\day2\include\linkedlist.h
+	<iostream>
+	"Node.h"
+
+1765120122 e:\telecom_iti\data_structures\day2\day2\include\node.h
+
+1765145763 e:\telecom_iti\data_structures\day2\day2\include\stack.h
+	"LinkedList.h"
+
+1765133808 source:e:\telecom_iti\data_structures\day2\day2\src\queue_circ.cpp
+
+1765142795 e:\telecom_iti\data_structures\day2\day2\include\queue_circ.h
+
