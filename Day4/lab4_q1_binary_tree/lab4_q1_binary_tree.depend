@@ -1,0 +1,27 @@
+# depslib dependency file v1.0
+1765476954 source:e:\telecom_iti\data_structures\day3\lab4_q1_binary_tree\main.cpp
+	<iostream>
+	"Tree.h"
+
+1765474540 source:e:\telecom_iti\data_structures\day3\lab4_q1_binary_tree\src\tree.cpp
+
+1765490634 e:\telecom_iti\data_structures\day3\lab4_q1_binary_tree\include\tree.h
+	<stdio.h>
+	<iostream>
+
+1765542416 source:e:\telecom_iti\data_structures\day4\lab4_q1_binary_tree\main.cpp
+	<iostream>
+	"Tree.h"
+
+1765542813 e:\telecom_iti\data_structures\day4\lab4_q1_binary_tree\include\tree.h
+	<stdio.h>
+	<iostream>
+	"Employee.h"
+
+1765541807 e:\telecom_iti\data_structures\day4\lab4_q1_binary_tree\include\employee.h
+	<cstring>
+
+1765474540 source:e:\telecom_iti\data_structures\day4\lab4_q1_binary_tree\src\tree.cpp
+
+1765539902 source:e:\telecom_iti\data_structures\day4\lab4_q1_binary_tree\src\employee.cpp
+
